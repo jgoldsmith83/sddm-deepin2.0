@@ -2,7 +2,8 @@
 
 Original theme found here: https://github.com/Match-Yang/sddm-deepin
 
-SDDM is a Login Manager for Linux which can be themed by qml. This theme uses the core design of [linuxdeepin/dde-session-ui](https://github.com/linuxdeepin/dde-session-ui)
+SDDM is a Login Manager for Linux which can be themed by qml.
+This theme uses the core design of [linuxdeepin/dde-session-ui](https://github.com/linuxdeepin/dde-session-ui)
 ![screenshot](https://github.com/jgoldsmith83/sddm-deepin2.0/blob/master/deepin2.0/screenshot.png)
 
 ## Install
