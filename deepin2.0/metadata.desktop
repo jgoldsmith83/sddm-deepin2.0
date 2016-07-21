@@ -1,0 +1,13 @@
+[SddmGreeterTheme]
+Name=Deepin2.0
+Description=Modified from original Deepin-like SDDM theme by Match-Yang.
+Screenshot=screenshot.png
+License=CC-BY-SA
+Type=sddm-theme
+Version=1.1
+Screenshot=screenshot.png
+MainScript=Main.qml
+ConfigFile=theme.conf
+TranslationsDirectory=translations
+Theme-Id=deepin2.0
+Theme-API=2.0
